@@ -1,6 +1,7 @@
 # ---- TEST SOURCE FILES ----
 add_executable(ad_crypt_tests
     test_main.cpp
+    test_ad_crypt.cpp
 )
 
 # ---- INCLUDE DIRS ----
